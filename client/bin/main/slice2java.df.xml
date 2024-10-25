@@ -1,0 +1,18 @@
+<state>
+  <timestamp value='1729886952703' />
+  <sourceSet name='default'>
+    <source name='C:\Users\Juan David Acevedo G\OneDrive\Documentos\Montecarlo\Montecarlo.ice'>
+      <file name='C:\Users\Juan David Acevedo G\OneDrive\Documentos\Montecarlo\client\build\generated-src\Montecarlo\Master.java' />
+      <file name='C:\Users\Juan David Acevedo G\OneDrive\Documentos\Montecarlo\client\build\generated-src\Montecarlo\Worker.java' />
+      <file name='C:\Users\Juan David Acevedo G\OneDrive\Documentos\Montecarlo\client\build\generated-src\Montecarlo\Client.java' />
+      <file name='C:\Users\Juan David Acevedo G\OneDrive\Documentos\Montecarlo\client\build\generated-src\Montecarlo\MasterPrx.java' />
+      <file name='C:\Users\Juan David Acevedo G\OneDrive\Documentos\Montecarlo\client\build\generated-src\Montecarlo\_MasterPrxI.java' />
+      <file name='C:\Users\Juan David Acevedo G\OneDrive\Documentos\Montecarlo\client\build\generated-src\Montecarlo\WorkerPrx.java' />
+      <file name='C:\Users\Juan David Acevedo G\OneDrive\Documentos\Montecarlo\client\build\generated-src\Montecarlo\_WorkerPrxI.java' />
+      <file name='C:\Users\Juan David Acevedo G\OneDrive\Documentos\Montecarlo\client\build\generated-src\Montecarlo\ClientPrx.java' />
+      <file name='C:\Users\Juan David Acevedo G\OneDrive\Documentos\Montecarlo\client\build\generated-src\Montecarlo\_ClientPrxI.java' />
+    </source>
+    <arg value='C:\Program Files\ZeroC\Ice-3.7.10\\bin\slice2java.exe' />
+    <arg value='-IC:\Program Files\ZeroC\Ice-3.7.10\\slice' />
+  </sourceSet>
+</state>
